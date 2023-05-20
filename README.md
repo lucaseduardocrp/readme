@@ -6,19 +6,7 @@
   <img src="gitcommit.png">
 </h1>
 
-De acordo com a documentação do **Conventional Commits**, Commits Semânticos são uma convenção simples para ser utilizada nas mensagens de commit. Essa convenção define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas.
-
-Esses commits auxiliarão você e sua equipe a entenderem de forma facilitada quais alterações foram realizadas no trecho de código que foi commitado.
-
-Essa identificação ocorre por meio de uma palavra e emoji que identifica se aquele commit realizado se trata de uma alteração de código, atualização de pacotes, documentação, alteração de visual, teste...
-
-## 📚 Ebook
-
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js e muito mais. O valor é R$25,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
-
-- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
-
-## 🦄 Tipo e Descrição
+## Tipo e Descrição
 
 O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
 
